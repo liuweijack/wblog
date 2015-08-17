@@ -14,6 +14,8 @@ gem 'foundation-rails', '~> 5.5.1'
 gem 'foundation-icons-sass-rails'
 gem 'font-awesome-sass'
 
+gem 'therubyracer', platforms: :ruby
+gem 'therubyrhino', platforms: :jruby
 gem 'jbuilder'
 
 gem 'mongoid'
